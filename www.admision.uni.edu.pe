@@ -1,0 +1,613 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>OCAD - Resultados del Concurso de Admisión</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="CNE/css/estilo_ocad.css"> 
+<link rel="stylesheet" type="text/css" href="CNE/css/design.css"> 
+</head>
+<body>
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="15" valign="top"><img src="CNE/images/lat_izq.jpg" width="15" height="496" /></td>
+    <td class="conte_gen"><div class="roja">
+      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td  class="logo"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="282"><img src="CNE/images/logo_admision.png" width="282" height="74" /></td>
+              <td align="center">&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2"><img src="CNE/images/f_menu.png" width="672" height="34" /></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td >
+          <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+   <tr>
+   <td colspan="3" rowspan="2">
+	 <table width="90%" border="0" cellpadding="0"  align="center" cellspacing="0" >
+       <tr>
+         <td colspan="5" valign="top" ><table width="100%" border="0" cellpadding="0"  align="center" cellspacing="0" >
+             <tr>
+               <td colspan="5" valign="top"align="center" >	
+			   <table width='100%'>
+			   <tr><td height="25" colspan="5" class="titulo_principal"><div align="center">RESULTADOS CONCURSO DE ADMISIÓN 2014-1</div></td></tr>
+			   <tr>
+			     <td height="28" align="center" class="style2">&nbsp;</td>
+			   </tr></table>
+			   </td></tr>
+             <tr>
+               <td colspan="5" valign="top"><div id="caja_busqueda">
+                   <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" class="form_marco">
+                     <form name="form1" method="post" action="" class="form_marco">
+                       <tr >
+                         <td width="40"  align="left">&nbsp;</td>
+                         <td width="100" align="left" class="texto_general"></td>
+                         <td>
+						
+                         </td>
+                         <td width="40" rowspan="5" align="right"><input name="Submit" type="image" src="CNE/images/buscar_ver.png" class="data" value="Buscar" style="font-size:11px;" /></td>
+                         </tr>
+                       <tr >
+                         <td align="left">&nbsp;</td>
+                         <td align="left" class="texto_general" >C&oacute;digo :</td>
+                         <td><input name="txt_numins" type="text" value="" class="data" id="codigo" style="font-size:11px;" size="6" maxlength="6" /></td>
+                         </tr>
+                       <!--<tr class="titulo_txt">
+                         <td align="left">&nbsp;</td>
+                         <td align="left" class="texto_general" >Orden :</td>
+                         <td>
+                         <select name="orden"  class="data" id="examen" style="width: 350px; font-size: 11px;">
+                         <option value='0'>ALFAB&Eacute;TICO</option>
+                         <option value='1'>M&Eacute;RITO</option>
+                         </select>
+                         </td>
+                         <td align="right"></td>
+                         <td align="right">&nbsp;</td>
+                       </tr>-->
+                       <tr >
+                         <td align="left">&nbsp;</td>
+                         <td align="left" class="texto_general">Paterno :</td>
+                         <td><input name="txt_paterno" type="text" value="" class="data" id="paterno" style="font-size:11px;" size="30" /></td>
+                         </tr>
+                       <tr >
+                         <td align="left">&nbsp;</td>
+                         <td align="left" class="texto_general">Materno :</td>
+                         <td><input name="txt_materno" type="text" value="" class="data" id="materno" style="font-size:11px;" size="30" /></td>
+                         </tr>
+                       <tr >
+                         <td align="left">&nbsp;</td>
+                         <td align="left" class="texto_general">Nombres :</td>
+                         <td><input name="txt_nombres" type="text" value="" class="data" id="nombres" style="font-size:11px;" size="30" /></td>
+                         </tr>
+                     </form>
+                   </table>
+               </div></td>
+             </tr>
+           </table>
+                          <table align="center" width="800">
+               <tr align="right">
+                 <td class='paginas' align="right" valign="bottom">
+P&aacute;ginas:&nbsp;&nbsp;<a href='?pagina=1&txt_codigo=&txt_paterno=&txt_materno=&txt_nombres='>&laquo;</a>&nbsp;<a href='?pagina=1&txt_numins=&txt_paterno=&txt_materno=&txt_nombres='>&lsaquo;</a>&nbsp;<a style='COLOR: #E78242' href='?pagina=1&txt_numins=&txt_paterno=&txt_materno=&txt_nombres='>1</a>&nbsp;<a style='COLOR: #00345A' href='?pagina=2&txt_numins=&txt_paterno=&txt_materno=&txt_nombres='>2</a>&nbsp;<a style='COLOR: #00345A' href='?pagina=3&txt_numins=&txt_paterno=&txt_materno=&txt_nombres='>3</a>&nbsp;<a style='COLOR: #00345A' href='?pagina=4&txt_numins=&txt_paterno=&txt_materno=&txt_nombres='>4</a>&nbsp;<a style='COLOR: #00345A' href='?pagina=5&txt_numins=&txt_paterno=&txt_materno=&txt_nombres='>5</a>&nbsp;<a style='COLOR: #00345A' href='?pagina=6&txt_numins=&txt_paterno=&txt_materno=&txt_nombres='>6</a>&nbsp;<a style='COLOR: #00345A' href='?pagina=7&txt_numins=&txt_paterno=&txt_materno=&txt_nombres='>7</a>&nbsp;<a style='COLOR: #00345A' href='?pagina=8&txt_numins=&txt_paterno=&txt_materno=&txt_nombres='>8</a>&nbsp;<a style='COLOR: #00345A' href='?pagina=9&txt_numins=&txt_paterno=&txt_materno=&txt_nombres='>9</a>&nbsp;<a style='COLOR: #00345A' href='?pagina=10&txt_numins=&txt_paterno=&txt_materno=&txt_nombres='>10</a>&nbsp;<a href='?pagina=2&txt_numins=&txt_paterno=&txt_materno=&txt_nombres='>&rsaquo;</a>&nbsp;<a href='?pagina=271&txt_numins=&txt_paterno=&txt_materno=&txt_nombres='>&raquo;</a>                 </td>
+               </tr>
+             </table>           
+             <table align="center" width="1000">
+               <tr class='t_lista2'>
+                 <td align='center' width="32">Sec.</td>
+                 <td align='center' width="52">C&oacute;digo</td>
+                 <td align='center' width="250" >Apellidos y Nombres</td>
+				 <td align='center' width="200" >P1</td>
+				 <td align='center' width="200" >P2</td>
+				 <td align='center' width="200" >P3</td>
+				 <td align='center' width="200" >Acumulado</td>
+				 <td align='center' width="200" >Nota vocacional</td>
+				 <td align='center' width="200" >Nota cne</td>
+				 <td align='center' width="200" >Nota Arq</td>
+				 <td align='center' width="200" >Nota Final</td>
+				 <td align='center' width="200" >Nota Ingreso</td>
+				 <td align='center' width="200" >Merito por modalidad</td>
+				 <td align='center' width="200" >Modalidad de ingreso</td>
+				 <td align='center' width="200" >Especialidad de ingreso</td>
+				 <td align='center' width="1000" >observacion</td>
+				 </tr>
+               <tr class='lista_0'>
+                 <td align='center'>1</td>
+                 <td align='center'>60484E</td>
+                 <td align='left' width="500" >ABAD ANTIALON, JOHN HAILE</td>
+                 <td align='center'>258.000</td>
+                 <td align='center'>226.000</td>
+                 <td align='center'>178.000</td>
+				 <td align='center'>662.000</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>8.275</td>
+				 <td align='center'></td>
+                 <td align='center'>3069</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_1'>
+                 <td align='center'>2</td>
+                 <td align='center'>30226D</td>
+                 <td align='left' width="500" >ABAD SALCCA, JESSICA</td>
+                 <td align='center'>285.000</td>
+                 <td align='center'>171.000</td>
+                 <td align='center'>248.000</td>
+				 <td align='center'>704.000</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>8.800</td>
+				 <td align='center'></td>
+                 <td align='center'>2771</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_0'>
+                 <td align='center'>3</td>
+                 <td align='center'>42143J</td>
+                 <td align='left' width="500" >ABAL CHINCHAY, JHOVIN IVAN</td>
+                 <td align='center'>138.000</td>
+                 <td align='center'>4.000</td>
+                 <td align='center'>57.200</td>
+				 <td align='center'>199.200</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>2.490</td>
+				 <td align='center'></td>
+                 <td align='center'>6106</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_1'>
+                 <td align='center'>4</td>
+                 <td align='center'>41935E</td>
+                 <td align='left' width="500" >ABANTO GUERRERO, JOSSUE YAHIR</td>
+                 <td align='center'>330.000</td>
+                 <td align='center'>281.000</td>
+                 <td align='center'>296.400</td>
+				 <td align='center'>907.400</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>11.342</td>
+				 <td align='center'></td>
+                 <td align='center'>1371</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_0'>
+                 <td align='center'>5</td>
+                 <td align='center'>41140D</td>
+                 <td align='left' width="500" >ABANTO HINOSTROZA, FIORELLA MARIE</td>
+                 <td align='center'>321.000</td>
+                 <td align='center'>180.000</td>
+                 <td align='center'>268.400</td>
+				 <td align='center'>769.400</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>9.617</td>
+				 <td align='center'></td>
+                 <td align='center'>2328</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_1'>
+                 <td align='center'>6</td>
+                 <td align='center'>41738C</td>
+                 <td align='left' width="500" >ABANTO LINARES, ALEJANDRO VIDAL</td>
+                 <td align='center'>150.000</td>
+                 <td align='center'>1.000</td>
+                 <td align='center'>187.600</td>
+				 <td align='center'>338.600</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>4.232</td>
+				 <td align='center'></td>
+                 <td align='center'>5325</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_0'>
+                 <td align='center'>7</td>
+                 <td align='center'>50566I</td>
+                 <td align='left' width="500" >ABARCA ALVAREZ, MELISA ALEXANDRA</td>
+                 <td align='center'>210.000</td>
+                 <td align='center'>98.000</td>
+                 <td align='center'>193.200</td>
+				 <td align='center'>501.200</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'>6.732</td>
+                 <td align='center'>6.265</td>
+				 <td align='center'></td>
+                 <td align='center'>4203</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_1'>
+                 <td align='center'>8</td>
+                 <td align='center'>30199K</td>
+                 <td align='left' width="500" >ABARCA CARRANZA, KEVIN VICENTE</td>
+                 <td align='center'>276.000</td>
+                 <td align='center'>168.000</td>
+                 <td align='center'>237.600</td>
+				 <td align='center'>681.600</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>8.520</td>
+				 <td align='center'></td>
+                 <td align='center'>2935</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_0'>
+                 <td align='center'>9</td>
+                 <td align='center'>40510B</td>
+                 <td align='left' width="500" >ABARCA TINEO, EDGAR JUNIOR</td>
+                 <td align='center'>276.000</td>
+                 <td align='center'>158.000</td>
+                 <td align='center'>AUSENTE</td>
+				 <td align='center'>434.000</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>5.425</td>
+				 <td align='center'></td>
+                 <td align='center'>4670</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_1'>
+                 <td align='center'>10</td>
+                 <td align='center'>20041B</td>
+                 <td align='left' width="500" >ABDALA CASTRO, JAIRO WALBER</td>
+                 <td align='center'>462.000</td>
+                 <td align='center'>415.000</td>
+                 <td align='center'>311.600</td>
+				 <td align='center'>1188.600</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>14.857</td>
+				 <td align='center'>14.857</td>
+                 <td align='center'>12</td>
+                 <td align='center'>DOS PRIMEROS ALUMNOS</td>
+                 <td align='center'>INGENIERÍA ELECTRÓNICA</td>
+				 <td align='center'>Tiene que acercarse a la OCAD en el proceso de Identificación el Jueves 27/02/2014 de 13:00Pm a 17:00pm con sus documentos originales.</td>
+              </tr>
+               <tr class='lista_0'>
+                 <td align='center'>11</td>
+                 <td align='center'>60983D</td>
+                 <td align='left' width="500" >ABREGU TUESTA, JUAN GABRIEL</td>
+                 <td align='center'>372.000</td>
+                 <td align='center'>265.000</td>
+                 <td align='center'>201.200</td>
+				 <td align='center'>838.200</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>10.477</td>
+				 <td align='center'></td>
+                 <td align='center'>1809</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_1'>
+                 <td align='center'>12</td>
+                 <td align='center'>50029D</td>
+                 <td align='left' width="500" >ABRIL FLORES, YTHALIA</td>
+                 <td align='center'>216.000</td>
+                 <td align='center'>28.000</td>
+                 <td align='center'>216.400</td>
+				 <td align='center'>460.400</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'>8.477</td>
+                 <td align='center'>5.755</td>
+				 <td align='center'></td>
+                 <td align='center'>4496</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_0'>
+                 <td align='center'>13</td>
+                 <td align='center'>61030J</td>
+                 <td align='left' width="500" >ACARAPI QUISPE, JUAN ERNESTO</td>
+                 <td align='center'>318.000</td>
+                 <td align='center'>281.000</td>
+                 <td align='center'>236.400</td>
+				 <td align='center'>835.400</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>10.442</td>
+				 <td align='center'></td>
+                 <td align='center'>1840</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_1'>
+                 <td align='center'>14</td>
+                 <td align='center'>50093B</td>
+                 <td align='left' width="500" >ACASIETE CORDOVA, ANTONIO ALEJANDRO</td>
+                 <td align='center'>186.000</td>
+                 <td align='center'>36.000</td>
+                 <td align='center'>248.000</td>
+				 <td align='center'>470.000</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'>6.837</td>
+                 <td align='center'>5.875</td>
+				 <td align='center'></td>
+                 <td align='center'>4426</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_0'>
+                 <td align='center'>15</td>
+                 <td align='center'>41508G</td>
+                 <td align='left' width="500" >ACEITUNO CRUZ, LUIS MIGUEL</td>
+                 <td align='center'>231.000</td>
+                 <td align='center'>259.000</td>
+                 <td align='center'>303.600</td>
+				 <td align='center'>793.600</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>9.920</td>
+				 <td align='center'></td>
+                 <td align='center'>2148</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_1'>
+                 <td align='center'>16</td>
+                 <td align='center'>30227I</td>
+                 <td align='left' width="500" >ACEVEDO AVILA, JOSE RODOLFO</td>
+                 <td align='center'>249.000</td>
+                 <td align='center'>180.000</td>
+                 <td align='center'>218.400</td>
+				 <td align='center'>647.400</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>8.092</td>
+				 <td align='center'></td>
+                 <td align='center'>3175</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_0'>
+                 <td align='center'>17</td>
+                 <td align='center'>41154F</td>
+                 <td align='left' width="500" >ACEVEDO CANO, ANDY ALESSANDRO</td>
+                 <td align='center'>279.000</td>
+                 <td align='center'>238.000</td>
+                 <td align='center'>250.400</td>
+				 <td align='center'>767.400</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>9.592</td>
+				 <td align='center'></td>
+                 <td align='center'>2356</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_1'>
+                 <td align='center'>18</td>
+                 <td align='center'>50384A</td>
+                 <td align='left' width="500" >ACEVEDO CANO, ROGER MAXIMILIANO</td>
+                 <td align='center'>39.000</td>
+                 <td align='center'>23.000</td>
+                 <td align='center'>147.600</td>
+				 <td align='center'>209.600</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'>5.410</td>
+                 <td align='center'>2.620</td>
+				 <td align='center'></td>
+                 <td align='center'>6067</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_0'>
+                 <td align='center'>19</td>
+                 <td align='center'>41772K</td>
+                 <td align='left' width="500" >ACEVEDO CAPCHA, JOSEPH RICARDO</td>
+                 <td align='center'>93.000</td>
+                 <td align='center'>1.000</td>
+                 <td align='center'>198.400</td>
+				 <td align='center'>292.400</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>3.655</td>
+				 <td align='center'></td>
+                 <td align='center'>5609</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_1'>
+                 <td align='center'>20</td>
+                 <td align='center'>10323A</td>
+                 <td align='left' width="500" >ACEVEDO CASTILLO, KEVIN JHUNIOR</td>
+                 <td align='center'>96.000</td>
+                 <td align='center'>69.000</td>
+                 <td align='center'>124.800</td>
+				 <td align='center'>289.800</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>3.622</td>
+				 <td align='center'></td>
+                 <td align='center'>5621</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_0'>
+                 <td align='center'>21</td>
+                 <td align='center'>40963E</td>
+                 <td align='left' width="500" >ACEVEDO OROPEZA, KEVIN PIERO</td>
+                 <td align='center'>84.000</td>
+                 <td align='center'>39.000</td>
+                 <td align='center'>224.400</td>
+				 <td align='center'>347.400</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>4.342</td>
+				 <td align='center'></td>
+                 <td align='center'>5273</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_1'>
+                 <td align='center'>22</td>
+                 <td align='center'>31282J</td>
+                 <td align='left' width="500" >ACEVEDO ROMERO, LUIS EDUARDO</td>
+                 <td align='center'>60.000</td>
+                 <td align='center'>20.000</td>
+                 <td align='center'>224.000</td>
+				 <td align='center'>304.000</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>3.800</td>
+				 <td align='center'></td>
+                 <td align='center'>5547</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_0'>
+                 <td align='center'>23</td>
+                 <td align='center'>30717I</td>
+                 <td align='left' width="500" >ACHA CARDENAS, JHOSMER  BRIGNNER</td>
+                 <td align='center'>84.000</td>
+                 <td align='center'>69.000</td>
+                 <td align='center'>106.000</td>
+				 <td align='center'>259.000</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>3.237</td>
+				 <td align='center'></td>
+                 <td align='center'>5824</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_1'>
+                 <td align='center'>24</td>
+                 <td align='center'>40663G</td>
+                 <td align='left' width="500" >ACHA CONDORI, EDWIN ROBERTO</td>
+                 <td align='center'>387.000</td>
+                 <td align='center'>349.000</td>
+                 <td align='center'>286.400</td>
+				 <td align='center'>1022.400</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>12.780</td>
+				 <td align='center'></td>
+                 <td align='center'>687</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+               <tr class='lista_0'>
+                 <td align='center'>25</td>
+                 <td align='center'>40795J</td>
+                 <td align='left' width="500" >ACHALMA GALINDO, RUBIO MARCOS</td>
+                 <td align='center'>354.000</td>
+                 <td align='center'>342.000</td>
+                 <td align='center'>277.200</td>
+				 <td align='center'>973.200</td>
+				 <td align='center'>--.---</td>
+				 <td align='center'></td>
+				 <td align='center'></td>
+                 <td align='center'>12.165</td>
+				 <td align='center'></td>
+                 <td align='center'>970</td>
+                 <td align='center'>ORDINARIO</td>
+                 <td align='center'></td>
+				 <td align='center'></td>
+              </tr>
+             </table>
+         </td>
+               <tr class='t_lista'>
+                 <td align='center' colspan="10" height="15">&nbsp;</td>
+               </tr>     </table>
+     </td></tr></table>
+          </td>
+        </tr>
+        <tr>
+          <td><table border="0" cellspacing="0" cellpadding="0" width="105%">
+            <tbody>
+              <tr>
+                <td><img src="CNE/images/img_abajo.png" border="0" width="884" height="35" /></td>
+              </tr>
+              <tr>
+                <td><table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tbody>
+                    <tr>
+                      <td width="18%"><img src="CNE/images/img_blog.png" border="0" width="60" height="59" /><a href="https://twitter.com/OCADUNI#" target="_blank"><img src="CNE/images/img_twitter.png" border="0" width="60" height="59" /></a><a href="http://www.facebook.com/profile.php?id=100001126033765" target="_blank"><img src="CNE/images/img_facebokk.png" border="0" width="60" height="59" /></a></td>
+                      <td width="24%"><a href="http://www.admision.uni.edu.pe/portal/index.php?option=com_content&amp;view=article&amp;id=67&amp;Itemid=61"><img src="CNE/images/icono_ocad.jpg" border="0" width="74" height="27" /></a></td>
+                      <td class="texto_footer" width="58%">Av. Tupac Amaru 210 - Rimac <br />
+                        Teléfono: 481-1070 anexo 253  Telefax: 482-3804 <br />
+                        e-mail: s_ocad@ uni.edu.pe  informes@admisionuni.edu.pe</td>
+                    </tr>
+                  </tbody>
+                </table></td>
+              </tr>
+            </tbody>
+          </table></td>
+        </tr>
+      </table>
+    </div></td>
+    <td width="16" valign="top"><img src="CNE/images/lat_der.jpg" width="15" height="496" /></td>
+  </tr>
+</table>
+	<script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-8924368-1");
+        pageTracker._trackPageview();
+        } catch(err) {}
+    </script>     
+   </body>
+</html>
